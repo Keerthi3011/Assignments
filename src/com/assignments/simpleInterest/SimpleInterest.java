@@ -1,4 +1,4 @@
-package com.assignmrnts.simpleInterest;
+package com.assignments.simpleInterest;
 
 // Write a program to calculate simple interest
 
