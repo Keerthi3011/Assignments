@@ -8,6 +8,7 @@ public class HashSetPractice
 {
 	public static void main(String[] args) 
 	{	// creating 2 hashset and inserting the elements in it
+	
 		HashSet<Integer> temp = new HashSet<>(); 
 		temp.add(12);
 		temp.add(5);
