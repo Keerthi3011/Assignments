@@ -1,4 +1,4 @@
-package com.assignmets.comparablePractice;
+package com.assignments.comparablePractice;
 
 public class CarParking implements Comparable<CarParking>
 {

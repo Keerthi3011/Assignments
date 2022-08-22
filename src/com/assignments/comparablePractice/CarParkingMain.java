@@ -1,4 +1,4 @@
-package com.assignmets.comparablePractice;
+package com.assignments.comparablePractice;
 
 import java.util.ArrayList;
 import java.util.Collections;
